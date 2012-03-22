@@ -1,3 +1,2 @@
-**Readme for Bandcamp Downloader CLI**
-
-This one is entirely written in Java. And to use it just submit the URL and all the tracks will downloaded with ease!
+This version of Bandcamp Downloader is entirely written in Java.
+And to use it just submit the URL in the path and all the tracks will automatically downloaded with ease!
